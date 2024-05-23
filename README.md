@@ -48,6 +48,6 @@ The top 10 rockets with the most failures are as follows:
 4. Cosmos 2l - 11 failures
 5. Proton K - 11 failures
 
-### Top 5 Most Used Launch Locations
+### Most Used Launch Location
 
 The most used launch location is Kazakhstan.
