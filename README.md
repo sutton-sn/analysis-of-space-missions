@@ -28,7 +28,7 @@ The analysis of launch failures over the years reveals that the periods with the
 
 ### Top 10 Most Used Rockets
 
-The top 10 most used rockets are as follows:
+The top 5 most used rockets are as follows:
 1. Cosmos 3m - More than 400 launches
 2. Voskhod - 300 launches
 3. Molniya-M - More than 100 launches
@@ -37,9 +37,9 @@ The top 10 most used rockets are as follows:
 
 ### Number of Launches by Hour
 
-The analysis of launches by hour shows that the periods with the most launches are from 9:00 AM to 12:00 PM.
+The analysis of launches by hour shows that the periods with the most launches are from 9:00 to 12:00.
 
-### Top 10 Rockets with Most Failures
+### Top 5 Rockets with Most Failures
 
 The top 10 rockets with the most failures are as follows:
 1. Cosmos-3m - 17 failures
