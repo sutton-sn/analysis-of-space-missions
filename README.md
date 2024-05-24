@@ -26,7 +26,7 @@ The final report of the space mission data analysis is as follows:
 
 The analysis of launch failures over the years reveals that the periods with the most failures were from 1957 to 1970 and from 2020 to 2023.
 
-### Top 10 Most Used Rockets
+### Top 5 Most Used Rockets
 
 The top 5 most used rockets are as follows:
 1. Cosmos 3m - More than 400 launches
@@ -41,7 +41,7 @@ The analysis of launches by hour shows that the periods with the most launches a
 
 ### Top 5 Rockets with Most Failures
 
-The top 10 rockets with the most failures are as follows:
+The top 5 rockets with the most failures are as follows:
 1. Cosmos-3m - 17 failures
 2. Molniya - 16 failures
 3. Voskhod - 12 failures
