@@ -2,6 +2,8 @@
 
 This repository contains the analysis of space mission data from 1957 to 2023. The data includes information about space missions such as launch failures, rocket usage, launch times, and launch locations.
 
+![graph](graph.png)
+
 ## Analysis Procedure
 
 The analysis was conducted using Python programming language with the following steps:
